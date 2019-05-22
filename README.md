@@ -6,7 +6,7 @@ Tests are contained in the tests.py file.
 ## Installation
 
 The only requirement is the `inflect` package which is used for pluralization.
-You can pip install the requirements file directly or in an virtualenv. There
+You can pip install the requirements file directly or in a virtualenv. There
 is also a Dockerfile with docker-compose.yml which allow you to run the files
 within docker. Simply build the container:
 
